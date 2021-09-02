@@ -1,11 +1,16 @@
 # Life Scientists' Introduction to Data Science: A Quick Course
 
-⋅What do you need to become a data scientist?⋅
-⋅Data Science Portfolio⋅
-⋅⋅Why should you implement data science projects?⋅⋅
-⋅⋅How do you get projects?⋅⋅
-⋅⋅Where do you find datasets?⋅⋅
-⋅⋅How do you start?
+What do you need to become a data scientist?
+
+Data Science Portfolio
+
+  Why should you implement data science projects?
+
+  How do you get projects?
+  
+  Where do you find datasets?
+  
+  How do you start?
 
 
 I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
@@ -22,7 +27,7 @@ I am writing this post because I basically want to share the sort of "introducto
 
 He started out by using the graphical user interface (GUI) software called WEKA developed by a team from the University of Waikato, but he later realized that developing his own software, models, and data mining workflow (by learning coding and programming languages) helped to speed up his work by a hundred or even a thousandfold.
 
- ## So, what do you need to become a data scientist?
+## So, what do you need to become a data scientist?
 
 In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](https://youtu.be/jhImgx8I8oI)" video, the Data Professor outlines the 8 major concepts/framework/skillsets/topics that he believes are the key (though stressing that this is only a summary or a bird's eye view of the data science landscape).
 
@@ -113,6 +118,8 @@ And so I started with having this "Intro to Data Science" website and already ha
 
 
 
-⋅_Some other videos you can check out:_⋅
-⋅[How to switch career to data science from non computer science background]() by codebasics⋅
-⋅[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
+_Some other videos you can check out:_
+
+[How to switch career to data science from non computer science background]() by codebasics
+
+[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
