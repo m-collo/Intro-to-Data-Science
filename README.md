@@ -20,7 +20,7 @@ I am writing this post because I basically want to share the sort of "introducto
 
 He started out by using the graphical user interface (GUI) software called WEKA developed by a team from the University of Waikato, but he later realized that developing his own software, models, and data mining workflow (by learning coding and programming languages) helped to speed up his work by a hundred or even a thousandfold.
 
-So, what do you need to become a data scientist?
+ ## So, what do you need to become a data scientist?
 
 In his "How to Become a Data Scientist (Learning Path and Skill Sets Needed)" video, the Data Professor outlines the 8 major concepts/framework/skillsets/topics that he believes are the key (though stressing that this is only a summary or a bird's eye view of the data science landscape).
 
@@ -32,7 +32,7 @@ https://youtu.be/ulRPiEJRyFQ
 
 Another important point presented by Dr. Nantasenamat is the importance of conducting Data Science Projects, either through the academe or the industry. Having a mentor you can learn from and who can guide and support you along the way, along with colleagues and even students (or maybe interns in the business world), publishing results through journal articles, and presenting them through conferences or to clients are also some other important points. When it comes to the time you put into these projects though, time may have more structure if you work in the corporate world as opposed to working in an academic institution (as I also learned from this presentation by a Machine Learning Scientist), so it is up to you to plan wisely and to motivate yourself. It is definitely something for me to consider after previously taking up a MS program in my old university. In his video, Dr. Nantasenamat talked about his experiences doing projects while pursuing his PhD and his realization on the importance of having these projects and his experiences with them, which I learned a lot from and you can also learn more. (He also talked about how his interest in the field of science started and how this made him pursue it).
 
-Data Science Portfolio
+## Data Science Portfolio
 
 With data science projects also comes having a Data Science Portfolio. Dr. Nantasenamat gave some tutorials on "Building your Data Science Portfolio with GitHub" and "How to Build a Simple Portfolio Website for FREE" through GitHub as well. You can see this website as an example born from those two tutorials.
 
@@ -41,54 +41,54 @@ https://youtu.be/6NXLGP65S2Q
 
 He also gave some "Data Science Portfolio Tips" through a discussion with other Data Science YouTubers, Dhaval (codebasics), Ken Jee and Krish Naik. Here I outline the points that can be taken away from discussion:
 
-Why should you implement data science projects?
+### _Why should you implement data science projects?_
 
-■ You can learn a lot faster when working with examples of code and applying the technology. You will be able to internalize it much more effectively as opposed to just reading about it. Seeing the results of the model, you intuitively understand more how it works than just conceptualizing it. - Ken Jee
+- You can learn a lot faster when working with examples of code and applying the technology. You will be able to internalize it much more effectively as opposed to just reading about it. Seeing the results of the model, you intuitively understand more how it works than just conceptualizing it. - Ken Jee
 
-■ You can have something to show as opposed to just taking a course and getting a certificate, for example, an actual model that works and that can predict something. You can have something tangible that you created, which means more to recruiters or managers and shows that you understand the concepts enough to apply them. - Ken Jee
+- You can have something to show as opposed to just taking a course and getting a certificate, for example, an actual model that works and that can predict something. You can have something tangible that you created, which means more to recruiters or managers and shows that you understand the concepts enough to apply them. - Ken Jee
 
-■ You can give yourself a mental reward. Having something like a website working in front of you can give you motivation to continue further and give you a mental boost. - Dhaval
+- You can give yourself a mental reward. Having something like a website working in front of you can give you motivation to continue further and give you a mental boost. - Dhaval
 
-■ Having projects can denote importance to your skills such as implementation, for example, an end-to-end product that people can see what it actually does. Following the life cycle of a data science project can help you be able to explain it and be understood by a layman person. - Krish Naik
+- Having projects can denote importance to your skills such as implementation, for example, an end-to-end product that people can see what it actually does. Following the life cycle of a data science project can help you be able to explain it and be understood by a layman person. - Krish Naik
 
-■ Doing projects can also help figure out the topics that you want to learn more about. With a minimal viable product, you can also make more improvements (or versions), such as adding more features, or by modifying the algorithm. - Dr. Nantasenamat
+- Doing projects can also help figure out the topics that you want to learn more about. With a minimal viable product, you can also make more improvements (or versions), such as adding more features, or by modifying the algorithm. - Dr. Nantasenamat
 
-■ The essence of a master's or graduate study is in the capstone or thesis project, so doing a master's can give you an extended time that is spent working on projects. - Dr. Nantasenamat
+- The essence of a master's or graduate study is in the capstone or thesis project, so doing a master's can give you an extended time that is spent working on projects. - Dr. Nantasenamat
 
-■ Doing projects can also help in your job search or getting an internship in a real-world industry. It can show that you have a basic knowledge of implementing projects. Writing blogs about your projects can also be a plus in your resume. - Krish Naik
+- Doing projects can also help in your job search or getting an internship in a real-world industry. It can show that you have a basic knowledge of implementing projects. Writing blogs about your projects can also be a plus in your resume. - Krish Naik
 
-How do you get projects?
+### _How do you get projects?_
 
-■ Look for open-source projects that you can contribute to, real datasets, real problems, or real-life projects. You can go to a non-government organization. Having someone you know who has a business can also help. - Dhaval
+- Look for open-source projects that you can contribute to, real datasets, real problems, or real-life projects. You can go to a non-government organization. Having someone you know who has a business can also help. - Dhaval
 
-■ Choose projects that tell your own personal story, that you're interested or passionate in, or that can be related to the work being done by the company you are applying to. Choose a subject area or domain that you can learn, explain, work on, and present, something you can talk about with the employer during the job interview or give real world examples to. - Ken Jee
+- Choose projects that tell your own personal story, that you're interested or passionate in, or that can be related to the work being done by the company you are applying to. Choose a subject area or domain that you can learn, explain, work on, and present, something you can talk about with the employer during the job interview or give real world examples to. - Ken Jee
 
-■ Find out the niche in a certain location. -
+- Find out the niche in a certain location. -
 In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
 
-■ Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
+- Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
-■ Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
+- Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
 You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out Ken Jee's project on the topic.)
 
-■ Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
+- Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
 
-■ You can start with a problem, grab the data then solve it or you can start with the data. Learn to communicate the value in your project, for example to business stakeholders. What do you want to determine? to solve? Who would the analysis help? Don't forget to document and share your work. - Dr. Nantasenamat
+- You can start with a problem, grab the data then solve it or you can start with the data. Learn to communicate the value in your project, for example to business stakeholders. What do you want to determine? to solve? Who would the analysis help? Don't forget to document and share your work. - Dr. Nantasenamat
 
-Where do you find datasets?
+### _Where do you find datasets?_
 
-■ If you are not a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
+- If you are not a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
 However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
 
-■ Web scraping is also an option and there are some tools, but there is also a grey area that can lead to some legal problems. Ken Jee suggests trying to search for the robots.txt file in websites before scraping.
+- Web scraping is also an option and there are some tools, but there is also a grey area that can lead to some legal problems. Ken Jee suggests trying to search for the robots.txt file in websites before scraping.
 
-■ For scientists, there are peer-reviewed journals that offer higher quality data such as nature’s scientific data, MDPI’s Data, and Taylor & Francis’ Big Earth Data. - Dr. Nantasenamat
+- For scientists, there are peer-reviewed journals that offer higher quality data such as nature’s scientific data, MDPI’s Data, and Taylor & Francis’ Big Earth Data. - Dr. Nantasenamat
 
-How do you start?
+### _How do you start?_
 
-■ You can start with regression and random forests when it comes to machine learning models. Understanding deep learning doesn't hurt either.
+- You can start with regression and random forests when it comes to machine learning models. Understanding deep learning doesn't hurt either.
 
-■You can start with Spyder for the integrated development environment (IDE) or coding environment, as well as RStudio and Visual Studio (VS) Code.
+- You can start with Spyder for the integrated development environment (IDE) or coding environment, as well as RStudio and Visual Studio (VS) Code.
 
 And so I started with having this Data Science Portfolio website and already have a couple of my own ideas for some data science projects aside from learning from the projects that the Data Professor (Drug Discovery project), Ken Jee and Krish Naik (Air Quality Index project) have. I hope this "quick introductory course" also helps you as you jumpstart into a career path towards data science as a biologist, a microbiologist like me, even a biochemist, or someone in the field of medicine. The next step into this journey is yours to take. For me, I have planned on delving more into the Data Professor's bioinformatics-related videos to immerse myself more into the "science" in data science.
 
