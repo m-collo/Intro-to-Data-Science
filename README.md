@@ -1,4 +1,4 @@
-Life Scientists' Introduction to Data Science: A Quick Course
+# Life Scientists' Introduction to Data Science: A Quick Course
 
 Jump to What do you need to become a data scientist?
 Jump to Data Science Portfolio
@@ -11,9 +11,10 @@ I stumbled upon data science in 2015 through “The Data Scientist's Toolbox” 
 
 Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by codebasics with the Data Professor, in the video called "Data Science in Biology | How a biologist became a data scientist." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
 
-https://youtu.be/JCGbRDL7F10
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCGbRDL7F10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYHrZx0G12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 I am writing this post because I basically want to share the sort of "introductory course" I took into understanding data science as a life scientist (particularly a microbiologist). It started with the video of the Data Professor talking about how he became a data scientist. From him I learned how data science can be applied in the fields of Biology, Chemistry, and Medicine through his research work in finding cures for diseases or novel drugs: by looking at specific pathological proteins and then at compounds and small molecules that will interact with and modulate those proteins.
 
