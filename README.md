@@ -30,7 +30,7 @@ In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhImgx8I8oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![Image](https://imgur.com/eBl72SZ)
+![Image](https://i.imgur.com/eBl72SZ.jpg)
 
 
 Next comes the question: "[To PhD or not to PhD](https://youtu.be/ulRPiEJRyFQ)?" By then, it was no question to me that I really wanted to pursue the Master of Statistics degree I found from a university. What was a question to me though was whether I wanted to continue teaching in university or not, as I had a previous experience. Dr. Chanin Nantasenamat, Ph.D. is an Associate Professor who is also aiming for Professorship at the university he was in (as he mentioned in his interview with codebasics). Because of his data science efforts, a Center of Data Mining and Biomedical Informatics was established at the university he works in. My science dream has always been to focus in the field of research, and I dreamed that I wanted to work on research at UNP and maybe even help establish a research center focused on data science in the university too. I knew that a stepping stone into that direction could be to become a part of the college faculty in the university, but maybe I could also simply find work in the university's Research and Development Office. I would have to look into the kind of research being done in the university.
