@@ -1,11 +1,17 @@
 # Life Scientists' Introduction to Data Science: A Quick Course
 
-What do you need to become a data scientist?
-Data Science Portfolio
-Why should you implement data science projects?
-How do you get projects?
-Where do you find datasets?
-How do you start?
+> What do you need to become a data scientist?
+
+> Data Science Portfolio
+
+>> Why should you implement data science projects?
+
+>> How do you get projects?
+
+>> Where do you find datasets?
+
+>> How do you start?
+
 
 I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
 
