@@ -7,9 +7,10 @@ How do you get projects?
 Where do you find datasets?
 How do you start?
 
-I stumbled upon data science in 2015 through “The Data Scientist's Toolbox” course offered through Coursera. As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: R Programming" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
+I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
 
-Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by codebasics with the Data Professor, in the video called "Data Science in Biology | How a biologist became a data scientist." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
+Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) with the [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q), in the video called "[Data Science in Biology | How a biologist became a data scientist](https://youtu.be/JCGbRDL7F10)." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCGbRDL7F10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -22,24 +23,39 @@ He started out by using the graphical user interface (GUI) software called WEKA 
 
  ## So, what do you need to become a data scientist?
 
-In his "How to Become a Data Scientist (Learning Path and Skill Sets Needed)" video, the Data Professor outlines the 8 major concepts/framework/skillsets/topics that he believes are the key (though stressing that this is only a summary or a bird's eye view of the data science landscape).
+In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](https://youtu.be/jhImgx8I8oI)" video, the Data Professor outlines the 8 major concepts/framework/skillsets/topics that he believes are the key (though stressing that this is only a summary or a bird's eye view of the data science landscape).
 
-https://youtu.be/jhImgx8I8oI
 
-Next comes the question: "To PhD or not to PhD?" By then, it was no question to me that I really wanted to pursue the Master of Statistics degree I found from a university. What was a question to me though was whether I wanted to continue teaching in university or not, as I had a previous experience. Dr. Chanin Nantasenamat, Ph.D. is an Associate Professor who is also aiming for Professorship at the university he was in (as he mentioned in his interview with codebasics). Because of his data science efforts, a Center of Data Mining and Biomedical Informatics was established at the university he works in. My science dream has always been to focus in the field of research, and I dreamed that I wanted to work on research at UNP and maybe even help establish a research center focused on data science in the university too. I knew that a stepping stone into that direction could be to become a part of the college faculty in the university, but maybe I could also simply find work in the university's Research and Development Office. I would have to look into the kind of research being done in the university.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhImgx8I8oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://youtu.be/ulRPiEJRyFQ
 
-Another important point presented by Dr. Nantasenamat is the importance of conducting Data Science Projects, either through the academe or the industry. Having a mentor you can learn from and who can guide and support you along the way, along with colleagues and even students (or maybe interns in the business world), publishing results through journal articles, and presenting them through conferences or to clients are also some other important points. When it comes to the time you put into these projects though, time may have more structure if you work in the corporate world as opposed to working in an academic institution (as I also learned from this presentation by a Machine Learning Scientist), so it is up to you to plan wisely and to motivate yourself. It is definitely something for me to consider after previously taking up a MS program in my old university. In his video, Dr. Nantasenamat talked about his experiences doing projects while pursuing his PhD and his realization on the importance of having these projects and his experiences with them, which I learned a lot from and you can also learn more. (He also talked about how his interest in the field of science started and how this made him pursue it).
+![Image](https://imgur.com/a/n4r8PGW)
+
+
+Next comes the question: "[To PhD or not to PhD](https://youtu.be/ulRPiEJRyFQ)?" By then, it was no question to me that I really wanted to pursue the Master of Statistics degree I found from a university. What was a question to me though was whether I wanted to continue teaching in university or not, as I had a previous experience. Dr. Chanin Nantasenamat, Ph.D. is an Associate Professor who is also aiming for Professorship at the university he was in (as he mentioned in his interview with codebasics). Because of his data science efforts, a Center of Data Mining and Biomedical Informatics was established at the university he works in. My science dream has always been to focus in the field of research, and I dreamed that I wanted to work on research at UNP and maybe even help establish a research center focused on data science in the university too. I knew that a stepping stone into that direction could be to become a part of the college faculty in the university, but maybe I could also simply find work in the university's Research and Development Office. I would have to look into the kind of research being done in the university.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulRPiEJRyFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Another important point presented by Dr. Nantasenamat is the importance of conducting **Data Science Projects**, either through the academe or the industry. Having a mentor you can learn from and who can guide and support you along the way, along with colleagues and even students (or maybe interns in the business world), publishing results through journal articles, and presenting them through conferences or to clients are also some other important points. When it comes to the time you put into these projects though, time may have more structure if you work in the corporate world as opposed to working in an academic institution (as I also learned from [this presentation by a Machine Learning Scientist](https://youtu.be/7YaJzW_vuVk)), so it is up to you to plan wisely and to motivate yourself. It is definitely something for me to consider after previously taking up a MS program in my old university. In his video, Dr. Nantasenamat talked about his experiences doing projects while pursuing his PhD and his realization on the importance of having these projects and his experiences with them, which I learned a lot from and you can also learn more. (He also talked about how his interest in the field of science started and how this made him pursue it).
 
 ## Data Science Portfolio
 
-With data science projects also comes having a Data Science Portfolio. Dr. Nantasenamat gave some tutorials on "Building your Data Science Portfolio with GitHub" and "How to Build a Simple Portfolio Website for FREE" through GitHub as well. You can see this website as an example born from those two tutorials.
+With data science projects also comes having a Data Science Portfolio. Dr. Nantasenamat gave some tutorials on "[Building your Data Science Portfolio with GitHub](https://youtu.be/fCXBaEnPzgo)" and "[How to Build a Simple Portfolio Website for FREE](https://youtu.be/6NXLGP65S2Q)" through GitHub as well. You can see this website as an example born from those two tutorials.
 
-https://youtu.be/fCXBaEnPzgo
-https://youtu.be/6NXLGP65S2Q
 
-He also gave some "Data Science Portfolio Tips" through a discussion with other Data Science YouTubers, Dhaval (codebasics), Ken Jee and Krish Naik. Here I outline the points that can be taken away from discussion:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCXBaEnPzgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NXLGP65S2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" through a discussion with other Data Science YouTubers, Dhaval (codebasics), [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) and [Krish Naik](https://www.youtube.com/user/krishnaik06). Here I outline the points that can be taken away from discussion:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddFskLtQsbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### _Why should you implement data science projects?_
 
@@ -69,7 +85,7 @@ In my case, I need to learn more about the research being done in the university
 - Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
 - Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
-You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out Ken Jee's project on the topic.)
+You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
 
 - Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
 
@@ -90,47 +106,10 @@ However, there are also some that provide it for free such as Amazon, Yahoo, Blo
 
 - You can start with Spyder for the integrated development environment (IDE) or coding environment, as well as RStudio and Visual Studio (VS) Code.
 
-And so I started with having this Data Science Portfolio website and already have a couple of my own ideas for some data science projects aside from learning from the projects that the Data Professor (Drug Discovery project), Ken Jee and Krish Naik (Air Quality Index project) have. I hope this "quick introductory course" also helps you as you jumpstart into a career path towards data science as a biologist, a microbiologist like me, even a biochemist, or someone in the field of medicine. The next step into this journey is yours to take. For me, I have planned on delving more into the Data Professor's bioinformatics-related videos to immerse myself more into the "science" in data science.
-
-Some other videos you can check out:
-How to switch career to data science from non computer science background by codebasics
-Structure, Bioinformatics and Data Science area - Global Research Technology by Novo Nordisk
+And so I started with having this "Intro to Data Science" website and already have a couple of my own ideas for some data science projects aside from learning from the projects that the Data Professor ([Drug Discovery project](https://youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)), Ken Jee and Krish Naik ([Air Quality Index project](https://youtu.be/CTu0qnuMxgA)) have. I hope this "quick introductory course" also helps you as you jumpstart into a career path towards data science as a biologist, a microbiologist like me, even a biochemist, or someone in the field of medicine. The next step into this journey is yours to take. For me, I have planned on delving more into the Data Professor's bioinformatics-related videos to immerse myself more into the "science" in data science.
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mlizjmc/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlizjmc/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Some other videos you can check out:_
+[How to switch career to data science from non computer science background]() by codebasics
+[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
