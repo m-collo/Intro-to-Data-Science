@@ -1,7 +1,7 @@
 # Life Scientists' Introduction to Data Science: A Quick Course
 
-Jump to What do you need to become a data scientist?
-Jump to Data Science Portfolio
+What do you need to become a data scientist?
+Data Science Portfolio
 Why should you implement data science projects?
 How do you get projects?
 Where do you find datasets?
@@ -29,7 +29,7 @@ In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhImgx8I8oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![Image](https://imgur.com/a/n4r8PGW)
+![Image](https://imgur.com/eBl72SZ)
 
 
 Next comes the question: "[To PhD or not to PhD](https://youtu.be/ulRPiEJRyFQ)?" By then, it was no question to me that I really wanted to pursue the Master of Statistics degree I found from a university. What was a question to me though was whether I wanted to continue teaching in university or not, as I had a previous experience. Dr. Chanin Nantasenamat, Ph.D. is an Associate Professor who is also aiming for Professorship at the university he was in (as he mentioned in his interview with codebasics). Because of his data science efforts, a Center of Data Mining and Biomedical Informatics was established at the university he works in. My science dream has always been to focus in the field of research, and I dreamed that I wanted to work on research at UNP and maybe even help establish a research center focused on data science in the university too. I knew that a stepping stone into that direction could be to become a part of the college faculty in the university, but maybe I could also simply find work in the university's Research and Development Office. I would have to look into the kind of research being done in the university.
@@ -80,11 +80,13 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 - Choose projects that tell your own personal story, that you're interested or passionate in, or that can be related to the work being done by the company you are applying to. Choose a subject area or domain that you can learn, explain, work on, and present, something you can talk about with the employer during the job interview or give real world examples to. - Ken Jee
 
 - Find out the niche in a certain location. -
+
 In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
 
 - Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
 - Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
+
 You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
 
 - Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
@@ -111,5 +113,7 @@ And so I started with having this "Intro to Data Science" website and already ha
 
 
 _Some other videos you can check out:_
+
 [How to switch career to data science from non computer science background]() by codebasics
+
 [Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
