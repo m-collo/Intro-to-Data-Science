@@ -1,16 +1,11 @@
 # Life Scientists' Introduction to Data Science: A Quick Course
 
-> What do you need to become a data scientist?
-
-> Data Science Portfolio
-
->> Why should you implement data science projects?
-
->> How do you get projects?
-
->> Where do you find datasets?
-
->> How do you start?
+⋅⋅⋅What do you need to become a data scientist?⋅⋅
+⋅⋅⋅Data Science Portfolio⋅⋅
+⋅⋅⋅Why should you implement data science projects?⋅⋅
+⋅⋅⋅How do you get projects?⋅⋅
+⋅⋅⋅Where do you find datasets?⋅⋅
+⋅⋅⋅How do you start?
 
 
 I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
@@ -87,13 +82,13 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 
 - Find out the niche in a certain location. -
 
-In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
+⋅⋅⋅In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
 
 - Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
 - Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
 
-You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
+⋅⋅⋅You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
 
 - Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
 
@@ -118,8 +113,6 @@ And so I started with having this "Intro to Data Science" website and already ha
 
 
 
-_Some other videos you can check out:_
-
-[How to switch career to data science from non computer science background]() by codebasics
-
-[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
+⋅⋅_Some other videos you can check out:_⋅⋅
+⋅⋅[How to switch career to data science from non computer science background]() by codebasics⋅⋅
+⋅⋅[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk⋅⋅
