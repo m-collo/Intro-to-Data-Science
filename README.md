@@ -1,4 +1,4 @@
-# Life Scientists' Introduction to Data Science: A Quick Course
+# Life Scientists' Quick Introduction to Data Science
 
 What do you need to become a data scientist?
 
