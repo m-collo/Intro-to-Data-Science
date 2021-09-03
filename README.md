@@ -18,9 +18,12 @@ I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](h
 Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) with the [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q), in the video called "[Data Science in Biology | How a biologist became a data scientist](https://youtu.be/JCGbRDL7F10)." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JCGbRDL7F10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCGbRDL7F10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYHrZx0G12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> In this video, Chanin Nantasenamat, Ph.D. AKA the Data Professor share experiences on how he transitioned from a biologist to becoming a data scientist (bioinformatician) working in bioinformatics.
 
 
 I am writing this post because I basically want to share the sort of "introductory course" I took into understanding data science as a life scientist (particularly a microbiologist). It started with the video of the Data Professor talking about how he became a data scientist. From him I learned how data science can be applied in the fields of Biology, Chemistry, and Medicine through his research work in finding cures for diseases or novel drugs: by looking at specific pathological proteins and then at compounds and small molecules that will interact with and modulate those proteins.
@@ -34,6 +37,8 @@ In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhImgx8I8oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+> What is Data Science? How can you Learn Data Science? How Can You Become a Data Scientist? What is the Learning Path and Roadmap for Learning Data Science? In this video, I discuss about 8 important skill sets that all Data Scientists should know about. The Infographic that I will use in this video can be used as a Roadmap for Beginners to Learn Data Science and Get Started in Data Science.
+
 
 ![Data Science Landscape](https://i.imgur.com/eBl72SZ.jpg)
 
@@ -42,6 +47,8 @@ Next comes the question: "[To PhD or not to PhD](https://youtu.be/ulRPiEJRyFQ)?"
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ulRPiEJRyFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> To PhD or not to PhD, that is the question for data science. In this video, I discuss about how getting a Doctor of Philosophy (PhD) degree helped in my journey of becoming a Biomedical Data Scientist. I will take you back to the time on how I got inspired in science and decided to begin my science career.
 
 
 Another important point presented by Dr. Nantasenamat is the importance of conducting **Data Science Projects**, either through the academe or the industry. Having a mentor you can learn from and who can guide and support you along the way, along with colleagues and even students (or maybe interns in the business world), publishing results through journal articles, and presenting them through conferences or to clients are also some other important points. When it comes to the time you put into these projects though, time may have more structure if you work in the corporate world as opposed to working in an academic institution (as I also learned from [this presentation by a Machine Learning Scientist](https://youtu.be/7YaJzW_vuVk)), so it is up to you to plan wisely and to motivate yourself. It is definitely something for me to consider after previously taking up a MS program in my old university. In his video, Dr. Nantasenamat talked about his experiences doing projects while pursuing his PhD and his realization on the importance of having these projects and his experiences with them, which I learned a lot from and you can also learn more. (He also talked about how his interest in the field of science started and how this made him pursue it).
@@ -53,14 +60,20 @@ With data science projects also comes having a Data Science Portfolio. Dr. Nanta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fCXBaEnPzgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+> In this video, I guide you in a step-by-step manner on setting up your Data Science portfolio using GitHub. A portfolio helps you to showcase your data science projects that will attract employers as well as allow you to archive your learned expertise in data science.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NXLGP65S2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Have you ever wanted to build a portfolio website to showcase your data science and coding projects? In this video, you will learn how to build a simple portfolio website and host it for free on GitHub Pages. The website will be coded in Markdown which is a simple to use syntax that you can learn in less than 5 minutes.
 
 
 He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" through a discussion with other Data Science YouTubers, Dhaval (codebasics), [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) and [Krish Naik](https://www.youtube.com/user/krishnaik06). Here I outline the points that can be taken away from discussion:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddFskLtQsbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> In this video, I had a panel discussion about building data science portfolio with Data Science YouTube influencers Ken Jee, Krish Naik, Dhaval (codebasics). All four of us come from different countries and we bring unique perspectives on the topics discussed.
 
 
 ### _Why should you implement data science projects?_
@@ -123,3 +136,15 @@ _Some other videos you can check out:_
 [How to switch career to data science from non computer science background]() by codebasics
 
 [Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
+
+
+
+Next topics:
+
+Data Science Process
+
+Starting a Data Science / Data Mining Project
+
+Access to FREE Data
+
+Leveling Up Skills in Data Science
